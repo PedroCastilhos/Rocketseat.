@@ -76,3 +76,5 @@ window.addEventListener('scroll', function () {
   changeHeaderWhenScroll();
   backToTop();
 });
+
+/* Botão voltar para o topo */
